@@ -1,4 +1,4 @@
 {
     "python.formatting.provider": "black",
-    "python.pythonPath": "/bin/python3"
+    "python.pythonPath": "/home/alfred/.local/share/virtualenvs/earningsCalculator-PQ4ruCp2/bin/python"
 }
